@@ -1,6 +1,6 @@
-# Video Colorization App
+# Video Colourisation App
 
-This is a PySide6-based GUI application that allows users to upload a grayscale video, input a custom caption, and simulate the colorization of the video using a placeholder deep learning model (currently mocked).
+This is a PySide6-based GUI application that allows users to upload a grayscale video, input a custom caption, and simulate the colourisation of the video using a placeholder deep learning model (currently mocked).
 
 ![alt text](image.png)
 
@@ -8,8 +8,8 @@ This is a PySide6-based GUI application that allows users to upload a grayscale 
 ## Features
 
 - **Upload a Grayscale Video**: Users can select a video from their file system.
-- **Custom Caption Input**: Users can input a caption that will be used during the colorization process.
-- **Colorized Video Preview**: Displays a mock colorized version of the grayscale video (for demonstration purposes).
+- **Custom Caption Input**: Users can input a caption that will be used during the colourisation process.
+- **Colourised Video Preview**: Displays a mock colourised version of the grayscale video (for demonstration purposes).
 - **Responsive GUI**: Built with PySide6, the app has a modern and user-friendly interface.
 
 ## Requirements
@@ -21,8 +21,8 @@ This is a PySide6-based GUI application that allows users to upload a grayscale 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/video-colorization-app.git
-   cd video-colorization-app
+   git clone https://github.com/yourusername/video-colourisation-app.git
+   cd video-colourisation-app
 2. **(Optional) Create a virtual environment**:
     ```bash
     python -m venv venv
